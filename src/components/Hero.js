@@ -21,10 +21,8 @@ const Hero = () => {
         </div>
         <div className="summary-text">
           <p>
-            I am a frontend developer with 12 years of experience in communications. 
-            I'm passionate about learning new things and have finally found
-            a career where there's always more to learn!
-            I also love pets and beer.
+          I'm a frontend developer with a strong background in communications and writing. 
+          I'm passionate about constantly expanding my knowledge and thrive when I challenge myself. I love pets and beer. 
           </p>
         </div>
         <div className="social-media-links">

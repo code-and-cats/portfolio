@@ -1,8 +1,4 @@
-.words-section-wrapper {
-    width: 327px;
-    margin: auto;
-  }
-  
+
 .words-section {
     background-color: #F4F1FE;
     padding-top: 85px;
@@ -10,6 +6,8 @@
   }
   
   .words-section-wrapper {
+    width: 327px;
+    margin: auto;
     display: flex;
     flex-direction: column;
     gap: 98px;
