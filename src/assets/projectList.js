@@ -13,7 +13,7 @@ const projectList = [
         name: 'Design hand off',
         img: '../img/radiantroots.png',
         alt: 'the site shown on mobile, tablet and desktop',
-        description: 'Implemented a design made by a UX student for a ficitional yoga studio. Made with React.',
+        description: 'Implemented a design made by a UX student for a ficitional yoga studio. A deep dive into styled components.',
         tags: ['React', 'CSS'],
         demo: 'https://spectacular-pudding-f8c7fa.netlify.app/',
         code: 'https://github.com/code-and-cats/project-design-handoff',
