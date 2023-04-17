@@ -1,6 +1,24 @@
 
 const projectList = [
     {
+        name: 'Quiz',
+        img: '../img/quiz.png',
+        alt: 'the quiz shown on mobile',
+        description: 'Group assignment - quiz about the front side of Sweden (Gothenburg)!',
+        tags: ['Redux', 'CSS', 'mob-programming'],
+        demo: 'https://deluxe-gelato-680ed8.netlify.app/',
+        code: 'https://github.com/Technigo/project-redux-quiz/pull/107',
+    },
+    {
+        name: 'Design hand off',
+        img: '../img/radiantroots.png',
+        alt: 'the site shown on mobile, tablet and desktop',
+        description: 'Implemented a design made by a UX student for a ficitional yoga studio. Made with React.',
+        tags: ['React', 'CSS'],
+        demo: 'https://spectacular-pudding-f8c7fa.netlify.app/',
+        code: 'https://github.com/code-and-cats/project-design-handoff',
+    },
+    {
         name: 'Happy thoughts',
         img: '../img/happythoughts.png',
         alt: 'the site shown on mobile',
