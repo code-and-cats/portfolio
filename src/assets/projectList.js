@@ -1,10 +1,19 @@
 
 const projectList = [
     {
+        name: 'Todo-list in React',
+        img: '../img/checkit.png',
+        alt: 'screenshot of the app',
+        description: 'To do-list made with React and Redux.',
+        tags: ['Redux', 'React', 'CSS'],
+        demo: 'https://vios-todo.netlify.app/',
+        code: 'https://github.com/code-and-cats/project-todos',
+    },
+    {
         name: 'Quiz',
         img: '../img/quiz.png',
         alt: 'the quiz shown on mobile',
-        description: 'Group assignment - quiz about the front side of Sweden (Gothenburg)!',
+        description: 'A 100% serious quiz about the front side of Sweden (Gothenburg) made in React.',
         tags: ['Redux', 'CSS', 'mob-programming'],
         demo: 'https://deluxe-gelato-680ed8.netlify.app/',
         code: 'https://github.com/Technigo/project-redux-quiz/pull/107',
