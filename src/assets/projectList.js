@@ -13,7 +13,7 @@ const projectList = [
         name: 'Todo-list in React',
         img: '../img/checkit.png',
         alt: 'screenshot of the app',
-        description: 'To do-list made with React and Redux.',
+        description: 'To do-list made with React and Redux, working with reducers and actions.',
         tags: ['Redux', 'React', 'CSS'],
         demo: 'https://vios-todo.netlify.app/',
         code: 'https://github.com/code-and-cats/project-todos',
