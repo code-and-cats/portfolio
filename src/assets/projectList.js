@@ -1,6 +1,15 @@
 
 const projectList = [
     {
+        name: 'Labyrinth game',
+        img: '../img/captainsadventure.png',
+        alt: 'screenshot of the site',
+        description: 'A pair project, working on APIs with Redux for an exploration game.',
+        tags: ['Redux', 'React', 'API', 'CSS', 'pair-programming'],
+        demo: 'https://captains-adventure.netlify.app/',
+        code: 'https://github.com/code-and-cats/project-labyrinth',
+    },
+    {
         name: 'Todo-list in React',
         img: '../img/checkit.png',
         alt: 'screenshot of the app',

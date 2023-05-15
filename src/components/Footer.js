@@ -13,6 +13,7 @@ const Footer = () => {
           <h1 className="my-name">Vio Szabo</h1>
           <h2 className="tagline">Frontend developer</h2>
           <h3 className="second-tagline">with a background in communications</h3>
+          <h3>+46736383556</h3>
         </div>
       <div className="social-media-links-footer">
         <a href="https://www.linkedin.com/in/vio-szabo/">
