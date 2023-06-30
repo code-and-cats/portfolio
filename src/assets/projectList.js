@@ -3,10 +3,30 @@ const projectList = [
     name: 'Circuit training app',
     img: '../img/circleit.png',
     alt: 'screenshot of the site',
-    description: 'Final project for the Technigo bootcamp.',
+    description: 'Final project for the Technigo bootcamp - a fullstack project done in a team.',
     tags: ['React', 'MongoDB', 'Redux', 'API', 'mob-programming'],
     demo: 'https://circle-it.netlify.app/',
     code: 'https://github.com/Cheroptera/circle-it-FE'
+  },
+  {
+    name: 'Business site - Dynamic Duo',
+    img: '../img/dd.png',
+    alt: 'the site shown on desktop and mobile',
+    description:
+      'Content consulting and styling of a Wordpress site for an experienced event company in Sweden.',
+    tags: ['Wordpress'],
+    demo: 'http://dynamicduo.se/',
+    code: 'http://dynamicduo.se/'
+  },
+  {
+    name: 'Happy thoughts',
+    img: '../img/happythoughts.png',
+    alt: 'the site shown on mobile',
+    description:
+      'My first fullstack project. A twitter-like site, but with happy thoughts only.',
+    tags: ['React', 'CSS', 'API', 'MongoDB', 'mongoose'],
+    demo: 'https://enchanting-halva-88064a.netlify.app/',
+    code: 'https://github.com/code-and-cats/project-happy-thoughts'
   },
   {
     name: 'Randomizer',
@@ -58,16 +78,6 @@ const projectList = [
     code: 'https://github.com/code-and-cats/project-design-handoff'
   },
   {
-    name: 'Happy thoughts',
-    img: '../img/happythoughts.png',
-    alt: 'the site shown on mobile',
-    description:
-      'My first fullstack project. A twitter-like site, but with happy thoughts only.',
-    tags: ['React', 'CSS', 'API', 'MongoDB', 'mongoose'],
-    demo: 'https://enchanting-halva-88064a.netlify.app/',
-    code: 'https://github.com/code-and-cats/project-happy-thoughts'
-  },
-  {
     name: 'Pet shrimp order form',
     img: '../img/shrimporder.png',
     alt: 'the site shown on mobile',
@@ -86,16 +96,6 @@ const projectList = [
     tags: ['React', 'CSS', 'Pair-programming'],
     demo: 'https://vio-and-fridas-music-release-project.netlify.app/',
     code: 'https://github.com/Technigo/project-music-releases/pull/251'
-  },
-  {
-    name: 'Business site - Dynamic Duo',
-    img: '../img/dd.png',
-    alt: 'the site shown on desktop and mobile',
-    description:
-      'Content consulting and styling of a Wordpress site for an experienced event company in Sweden.',
-    tags: ['Wordpress'],
-    demo: 'http://dynamicduo.se/',
-    code: 'http://dynamicduo.se/'
   },
   {
     name: 'Weather app',
