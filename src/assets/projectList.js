@@ -1,5 +1,14 @@
 const projectList = [
   {
+    name: 'Circuit training app',
+    img: '../img/circleit.png',
+    alt: 'screenshot of the site',
+    description: 'Final project for the Technigo bootcamp.',
+    tags: ['React', 'MongoDB', 'Redux', 'API', 'mob-programming'],
+    demo: 'https://circle-it.netlify.app/',
+    code: 'https://github.com/Cheroptera/circle-it-FE'
+  },
+  {
     name: 'Randomizer',
     img: '../img/randomizer.png',
     alt: 'screenshot of the site',
