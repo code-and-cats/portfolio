@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
         <div className="summary-text">
           <p>
-          I'm a frontend developer with a strong background in communications and writing. 
+          I'm a frontend developer with a background in communications and writing. 
           I'm passionate about constantly expanding my knowledge and thrive when I challenge myself. I love pets and beer. 
           </p>
         </div>
