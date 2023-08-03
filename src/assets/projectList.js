@@ -3,7 +3,8 @@ const projectList = [
     name: 'Circuit training app',
     img: '../img/circleit.png',
     alt: 'screenshot of the site',
-    description: 'Final project for the Technigo bootcamp - a fullstack project done in a team.',
+    description:
+      'Final project for the Technigo bootcamp - a fullstack project done in a team.',
     tags: ['React', 'MongoDB', 'Redux', 'API', 'mob-programming'],
     demo: 'https://circle-it.netlify.app/',
     code: 'https://github.com/Cheroptera/circle-it-FE'
@@ -17,6 +18,15 @@ const projectList = [
     tags: ['Wordpress'],
     demo: 'http://dynamicduo.se/',
     code: 'http://dynamicduo.se/'
+  },
+  {
+    name: 'Beer API',
+    img: '../img/beerapi.png',
+    alt: 'the site shown on desktop, tablet and mobile',
+    description: 'Working with APIs, datasets from Kaggle and a frontend.',
+    tags: ['React', 'API', 'MongoDB', 'CSS'],
+    demo: 'https://verdant-pothos-deb7ad.netlify.app/',
+    code: 'https://github.com/code-and-cats/Beer-frontend'
   },
   {
     name: 'Happy thoughts',
