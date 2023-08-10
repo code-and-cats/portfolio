@@ -20,15 +20,13 @@ const Hero = () => {
             <div className="name-wrapper">
               <h1 className="my-name">Vio Szabo</h1>
               <h2 className="tagline">Frontend developer</h2>
-              <h3 className="second-tagline">+ communicator</h3>
-              <h3 className="second-tagline">+ author</h3>
+              <h3 className="second-tagline">+ communicator and author</h3>
             </div>
           </div>
           <div className="summary-text">
             <p>
-              I'm a frontend developer, communicator and author. I'm passionate
-              about constantly expanding my knowledge and thrive when I
-              challenge myself. I love pets and being in the outdoors.
+              I'm passionate about constantly expanding my knowledge and thrive
+              when I challenge myself. I love pets and being in the outdoors.
             </p>
           </div>
           <div className="social-media-links">
