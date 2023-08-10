@@ -90,26 +90,6 @@ const projectList = [
     code: 'https://github.com/code-and-cats/project-design-handoff'
   },
   {
-    name: 'Pet shrimp order form',
-    img: '../img/shrimporder.png',
-    alt: 'the site shown on mobile',
-    description:
-      'A small order form to practice React states. Order your shrimp and get a confirmation!',
-    tags: ['React', 'CSS'],
-    demo: 'https://astounding-starship-c864d5.netlify.app/',
-    code: 'https://github.com/code-and-cats/project-survey'
-  },
-  {
-    name: 'Music releases',
-    img: '../img/musicreleases.png',
-    alt: 'the site shown on tablet',
-    description:
-      'Spotify clone fetching music releases from an open API. The 50 latest music releases... from then.',
-    tags: ['React', 'CSS', 'Pair-programming'],
-    demo: 'https://vio-and-fridas-music-release-project.netlify.app/',
-    code: 'https://github.com/Technigo/project-music-releases/pull/251'
-  },
-  {
     name: 'Weather app',
     img: '../img/weatherapp.png',
     alt: 'hand holding a mobile phone with the app on it',
@@ -138,16 +118,6 @@ const projectList = [
     tags: ['HTML', 'JavaScript', 'CSS'],
     demo: 'https://vermillion-kashata-dd952d.netlify.app/',
     code: 'https://github.com/code-and-cats/project-chatbot'
-  },
-  {
-    name: 'News site',
-    img: '../img/dailymews.png',
-    alt: 'the site shown on desktop, mobile and tablet',
-    description:
-      'My first project working with responsive cards, flexbox and grid.',
-    tags: ['HTML', 'CSS'],
-    demo: 'https://earnest-sorbet-0d6a88.netlify.app/',
-    code: 'https://github.com/code-and-cats/project-news-site'
   }
 ]
 
