@@ -23,7 +23,8 @@ const projectList = [
     name: 'Beer API',
     img: '../img/beerapi.png',
     alt: 'the site shown on desktop, tablet and mobile',
-    description: 'Working with APIs, datasets from Kaggle and a frontend.',
+    description:
+      'Working with APIs, datasets from Kaggle, and a frontend where the user can click through the beers.',
     tags: ['React', 'API', 'MongoDB', 'CSS'],
     demo: 'https://verdant-pothos-deb7ad.netlify.app/',
     code: 'https://github.com/code-and-cats/Beer-frontend'
@@ -42,7 +43,8 @@ const projectList = [
     name: 'Randomizer',
     img: '../img/randomizer.png',
     alt: 'screenshot of the site',
-    description: 'A small personal project for practicing React.',
+    description:
+      'A small personal project for practicing React. Unsure of what to order? Let the randomizer decide!',
     tags: ['React', 'styled-components', 'CSS'],
     demo: 'https://random-randomizer.netlify.app/',
     code: 'https://github.com/code-and-cats/random-randomizer'
