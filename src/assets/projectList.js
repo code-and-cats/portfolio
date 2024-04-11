@@ -1,25 +1,5 @@
 const projectList = [
   {
-    name: 'Food planner',
-    img: '../img/.png',
-    alt: 'screenshot of the site',
-    description:
-      'Randomizes a number of meals from a database, showing the recipes in single or dual mode.',
-    tags: ['React', 'MongoDB', 'Redux', 'API', 'mob-programming'],
-    demo: 'https://circle-it.netlify.app/',
-    code: 'https://github.com/Cheroptera/circle-it-FE'
-  },
-  {
-    name: 'Dog activity app',
-    img: '../img/.png',
-    alt: 'screenshot of the site',
-    description:
-      'A small personal project, randomising activities to do with the dog.',
-    tags: ['React', 'MongoDB', 'Redux', 'API', 'mob-programming'],
-    demo: 'https://circle-it.netlify.app/',
-    code: 'https://github.com/Cheroptera/circle-it-FE'
-  },
-  {
     name: 'Circuit training app',
     img: '../img/circleit.png',
     alt: 'screenshot of the site',
