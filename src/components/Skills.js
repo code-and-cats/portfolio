@@ -11,7 +11,7 @@ const Skills = () => {
           <StyledUl>
             <StyledLi>HTML5</StyledLi>
             <StyledLi>CSS3</StyledLi>
-            <StyledLi>Javascript ES6</StyledLi>
+            <StyledLi>JavaScript ES6</StyledLi>
             <StyledLi>React</StyledLi>
             <StyledLi>Redux</StyledLi>
             <StyledLi>Styled Components</StyledLi>
@@ -24,29 +24,19 @@ const Skills = () => {
             <StyledLi>Adobe Photoshop</StyledLi>
             <StyledLi>Adobe Illustrator</StyledLi>
             <StyledLi>Adobe Premiere</StyledLi>
+            <StyledLi>Adobe InDesign</StyledLi>
             <StyledLi>Figma</StyledLi>
             <StyledLi>GitHub</StyledLi>
           </StyledUl>
         </ListWrapper>
         <ListWrapper>
-          <SkillsSubHeaderMore>More</SkillsSubHeaderMore>
+          <SkillsSubHeaderMore>Other</SkillsSubHeaderMore>
           <StyledUl>
-            <StyledLi>Interpersonal skills</StyledLi>
-            <StyledLi>Agile methodology</StyledLi>
-            <StyledLi>Workshop facilitation</StyledLi>
-            <StyledLi>Norm criticism and inclusiveness</StyledLi>
-          </StyledUl>
-        </ListWrapper>
-        <ListWrapper>
-          <SkillsSubHeaderComm>Comms</SkillsSubHeaderComm>
-          <StyledUl>
-            <StyledLi>Strategy</StyledLi>
-            <StyledLi>Crisis communication</StyledLi>
-            <StyledLi>Proofreading</StyledLi>
-            <StyledLi>Editing</StyledLi>
-            <StyledLi>Content creation</StyledLi>
-            <StyledLi>Klarspråk</StyledLi>
+            <StyledLi>Crisis communications</StyledLi>
+            <StyledLi>"Klarspråk"</StyledLi>
             <StyledLi>GDPR</StyledLi>
+            <StyledLi>Accessibility</StyledLi>
+            <StyledLi>Agile methodology</StyledLi>
           </StyledUl>
         </ListWrapper>
       </SkillsList>
@@ -98,7 +88,7 @@ const SkillsList = styled.div`
 const ListWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  width: 170px;
+  width: 220px;
 `
 
 const SkillsHeader = styled.h2`

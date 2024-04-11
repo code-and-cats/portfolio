@@ -13,8 +13,8 @@ const Hero = () => {
             <ProfilePic src="../img/vio.jpg" alt="Close-up of Vio" />
             <NameWrapper>
               <NameH1>Vio Szabo</NameH1>
-              <Tagline>Communicator, author</Tagline>
-              <SecondTagline>Junior frontend developer</SecondTagline>
+              <Tagline>Front end developer</Tagline>
+              <SecondTagline>+ communicator and author</SecondTagline>
             </NameWrapper>
           </InfoCard>
           <HeroP>
@@ -32,7 +32,7 @@ const Hero = () => {
         </HeroWrapper>
         <ScrollWrapper title="lets scroll">
           <Arrow src="../img/arrow.svg" alt="" />
-          <ScrollText href="#tech-header">Let's scroll</ScrollText>
+          <ScrollText href="#tech-header">Let's scroll!</ScrollText>
         </ScrollWrapper>
       </HeaderWrapper>
     </DesktopView>
@@ -172,6 +172,7 @@ const Tagline = styled.h2`
 `
 
 const SecondTagline = styled.h2`
+  font-size: 18px;
   color: #565656;
   margin-top: 0;
 `

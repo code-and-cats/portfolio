@@ -5,6 +5,7 @@ import Projects from './components/Projects'
 import Words from './components/Words'
 import Skills from './components/Skills'
 import Footer from './components/Footer'
+import Books from './components/Books'
 
 function App() {
   return (
@@ -12,9 +13,9 @@ function App() {
       <GlobalStyles />
       <Hero />
       <Tech />
-      <Projects />
-      <Words />
+      <Books />
       <Skills />
+      <Projects />
       <Footer />
     </div>
   )

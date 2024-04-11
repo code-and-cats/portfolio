@@ -1,51 +1,3 @@
-.logo {
-  display: none;
-}
-
-header {
-  padding-bottom: 1em;
-  min-height: 100vh;
-}
-
-p {
-  font-family: 'EB Garamond', serif;
-  font-size: 22px;
-  line-height: 29px;
-}
-
-.hero-wrapper {
-  width: 327px;
-  padding-top: 3em;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.info-card {
-  display: flex;
-  flex-direction: column;
-  align-self: center;
-}
-
-.profile-picture {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 50%;
-}
-
-.my-name {
-  font-family: 'Satoshi-Bold';
-  color: #1f596e;
-  font-size: 28px;
-  line-height: 32px;
-  margin-bottom: 5px;
-  margin-top: 29px;
-}
-
 .tagline {
   font-family: 'Satoshi-Black';
   color: black;
@@ -59,14 +11,6 @@ p {
   color: #565656;
   font-size: 24px;
   line-height: 29px;
-  margin-bottom: 1em;
-}
-
-.social-media-links {
-  margin-top: 55px;
-  display: flex;
-  justify-content: space-around;
-  gap: 3rem;
 }
 
 .social-link:hover {
