@@ -13,9 +13,9 @@ function App() {
       <GlobalStyles />
       <Hero />
       <Tech />
-      <Books />
       <Skills />
       <Projects />
+      <Books />
       <Footer />
     </div>
   )
