@@ -14,12 +14,15 @@ const Hero = () => {
             <NameWrapper>
               <NameH1>Vio Szabo</NameH1>
               <Tagline>Front end developer</Tagline>
-              <SecondTagline>+ communicator and author</SecondTagline>
+              <SecondTagline>+ author and communications expert</SecondTagline>
             </NameWrapper>
           </InfoCard>
           <HeroP>
             I'm passionate about constantly expanding my knowledge and thrive
-            when I challenge myself. I love pets and being in the outdoors.
+            when I challenge myself. That is why I changed careers after 12
+            years of working in communications. In my spare time, I am an
+            author, but you will equally likely find me in front of a hobby
+            project or training my dog.
           </HeroP>
           <SoMeWrapper>
             <a href="https://www.linkedin.com/in/vio-szabo/">

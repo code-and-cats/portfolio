@@ -12,7 +12,7 @@ const Footer = () => {
         <NameWrapper>
           <h1>Vio Szabo</h1>
           <TagLine>Frontend developer</TagLine>
-          <SecondTagline>+ communicator and author</SecondTagline>
+          <SecondTagline>+ author and communications expert</SecondTagline>
           <SecondTagline>+46736383556</SecondTagline>
         </NameWrapper>
         <SocialMediaWrapper>

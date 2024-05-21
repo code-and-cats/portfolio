@@ -7,7 +7,7 @@ const Tech = () => {
       <Wrapper>
         <StyledH2>Tech</StyledH2>
         <p>
-          HTML, CSS, <Red>JS6,</Red> JSX,<Green> React,</Green> Redux, Node.js,
+          HTML5, CSS, <Red>JS6,</Red> JSX,<Green> React,</Green> Redux, Node.js,
           MongoDB, API, <Purple>pair-programming,</Purple> GitHub,{' '}
           <Purple>crisis communications,</Purple> Photoshop,{' '}
           <Red>InDesign,</Red> Premiere, <Green>accessibility</Green>
