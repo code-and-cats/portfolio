@@ -7,8 +7,8 @@ const InfoCard = () => {
       <ProfilePic src="../img/vio.jpg" alt="Close-up of Vio" />
       <NameWrapper>
         <NameH1>Vio Szabo</NameH1>
-        <Tagline>Communicator, author</Tagline>
-        <SecondTagline>Junior frontend developer</SecondTagline>
+        <Tagline>Frontend developer</Tagline>
+        <SecondTagline>with a background in communications</SecondTagline>
       </NameWrapper>
     </InfoWrapper>
   )

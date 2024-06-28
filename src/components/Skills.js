@@ -21,22 +21,22 @@ const Skills = () => {
         <ListWrapper>
           <SkillsSubHeaderTool>Toolbox</SkillsSubHeaderTool>
           <StyledUl>
-            <StyledLi>Adobe Photoshop</StyledLi>
-            <StyledLi>Adobe Illustrator</StyledLi>
-            <StyledLi>Adobe Premiere</StyledLi>
-            <StyledLi>Adobe InDesign</StyledLi>
+            <StyledLi>Accessibility - WCAG 2.1</StyledLi>
             <StyledLi>Figma</StyledLi>
             <StyledLi>GitHub</StyledLi>
+            <StyledLi>Adobe Photoshop</StyledLi>
+            <StyledLi>Adobe Illustrator</StyledLi>
+            <StyledLi>Adobe InDesign</StyledLi>
           </StyledUl>
         </ListWrapper>
         <ListWrapper>
           <SkillsSubHeaderMore>Other</SkillsSubHeaderMore>
           <StyledUl>
-            <StyledLi>Crisis communications</StyledLi>
-            <StyledLi>"Klarspråk"</StyledLi>
-            <StyledLi>GDPR</StyledLi>
-            <StyledLi>Accessibility</StyledLi>
+            <StyledLi>Pair programming</StyledLi>
+            <StyledLi>Mob programming</StyledLi>
+            <StyledLi>Code reviews</StyledLi>
             <StyledLi>Agile methodology</StyledLi>
+            <StyledLi>UI and UX</StyledLi>
           </StyledUl>
         </ListWrapper>
       </SkillsList>
