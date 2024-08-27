@@ -18,11 +18,9 @@ const Hero = () => {
             </NameWrapper>
           </InfoCard>
           <HeroP>
-            I'm passionate about constantly expanding my knowledge and thrive
-            when I challenge myself. That is why I changed careers after 12
-            years of working in communications. In my spare time, I am an
-            author, but you will equally likely find me in front of a hobby
-            project or training my dog.
+            I'm passionate about constantly expanding my knowledge. In my spare
+            time, I am an author, but you will equally likely find me in front
+            of a hobby project or training my dog.
           </HeroP>
           <SoMeWrapper>
             <a href="https://www.linkedin.com/in/vio-szabo/">

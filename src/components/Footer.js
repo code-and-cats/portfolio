@@ -11,8 +11,8 @@ const Footer = () => {
         </div>
         <NameWrapper>
           <h1>Vio Szabo</h1>
-          <TagLine>Frontend developer</TagLine>
-          <SecondTagline>+ author and communications expert</SecondTagline>
+          <TagLine>Communicator</TagLine>
+          <SecondTagline>+ author and front end developer</SecondTagline>
           <SecondTagline>+46736383556</SecondTagline>
         </NameWrapper>
         <SocialMediaWrapper>
