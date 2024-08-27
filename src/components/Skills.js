@@ -23,7 +23,7 @@ const Skills = () => {
           <StyledUl>
             <StyledLi>Accessibility - WCAG 2.1</StyledLi>
             <StyledLi>Figma</StyledLi>
-            <StyledLi>GitHub</StyledLi>
+            <StyledLi>Adobe Premiere Pro</StyledLi>
             <StyledLi>Adobe Photoshop</StyledLi>
             <StyledLi>Adobe Illustrator</StyledLi>
             <StyledLi>Adobe InDesign</StyledLi>
