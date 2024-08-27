@@ -13,8 +13,8 @@ const Hero = () => {
             <ProfilePic src="../img/vio.jpg" alt="Close-up of Vio" />
             <NameWrapper>
               <NameH1>Vio Szabo</NameH1>
-              <Tagline>Front end developer</Tagline>
-              <SecondTagline>+ author and communications expert</SecondTagline>
+              <Tagline>Communicator</Tagline>
+              <SecondTagline>+ author and frontend developer</SecondTagline>
             </NameWrapper>
           </InfoCard>
           <HeroP>
